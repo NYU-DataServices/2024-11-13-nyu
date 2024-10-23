@@ -287,7 +287,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p>
     <strong>Registration:</strong>
-    You must register your attendance to this workshop on <a href="">LibCal</a>.
+    You must register your attendance to this workshop on <a href="https://nyu.libcal.com/calendar/classes/nyu-carpentries-fall-2024">LibCal</a>.
 </p>
 
 <hr/>
